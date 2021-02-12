@@ -1,0 +1,35 @@
+{
+  "name": "disable-auto-idle",
+  "version": "0.0.1",
+  "description": "A simple BetterDiscord plugin that disables auto-idle",
+  "main": "DisableAutoIdle.plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftwinds/disable-auto-idle.git"
+  },
+  "author": "SwiftWinds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swiftwinds/disable-auto-idle/issues"
+  },
+  "homepage": "https://github.com/swiftwinds/disable-auto-idle#readme",
+  "devDependencies": {
+    "@abhijithvijayan/eslint-config": "^2.5.6",
+    "@abhijithvijayan/eslint-config-airbnb": "^1.0.2",
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1"
+  }
+}
